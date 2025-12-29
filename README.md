@@ -6,6 +6,11 @@
 
 📐 Diagramas: [Arquitetura e Fluxos](docs/diagrams/diagrams_Procure_MVP.md)
 ---
+<img width="692" height="700" alt="procure" src="https://github.com/user-attachments/assets/557f5763-aa47-4d1b-84d0-d6cbe214e876" />
+<img width="865" height="699" alt="procure" src="https://github.com/user-attachments/assets/4a942087-21d0-49e2-a01a-a4ffd0aa4788" />
+<img width="865" height="699" alt="procure" src="https://github.com/user-attachments/assets/19ad32eb-902a-4000-b149-d47ff502d7c1" />
+<img width="599" height="632" alt="procure" src="https://github.com/user-attachments/assets/f8e36dd0-6a8e-4170-a70d-118611cf1da9" />
+<img width="911" height="462" alt="procure" src="https://github.com/user-attachments/assets/dd884595-d956-4eb3-9e91-a912953aac08" />
 
 ## Português
 
@@ -129,14 +134,6 @@ Neste MVP, atuei como responsável por:
 
 ---
 
-### Prints e Diagramas
-
-📁 `/docs/images`  
-- Prints com dados borrados ou mockados  
-- Diagramas de arquitetura e fluxos (Mermaid)
-
----
-
 ### Observações
 
 - Código mantido privado por se tratar de sistema corporativo  
@@ -256,13 +253,6 @@ Responsibilities in this project included:
 - SAP B1 integration strategy
 - MVP structuring for scalability
 - Full technical delivery
-
----
-
-### Screenshots & Diagrams
-
-📁 `/docs/images`  
-All images use blurred or mocked data for demonstration.
 
 ---
 
