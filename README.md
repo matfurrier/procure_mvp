@@ -16,7 +16,7 @@
 
 ### Visão Geral
 
-O **Procure MVP – Solicitação & Cotação** é um MVP interno desenvolvido para **substituir o fluxo de compras do BlueEz**, cobrindo todo o ciclo de **Solicitação → RFQ → Cotações → Aprovação → Sincronização com SAP B1**.
+O **Procure MVP – Solicitação & Cotação** é um MVP interno, cobrindo todo o ciclo de **Solicitação → RFQ → Cotações → Aprovação → Sincronização com SAP B1**.
 
 A solução foi desenhada para padronizar processos, aumentar rastreabilidade, reduzir retrabalho operacional e permitir evolução gradual para um fluxo corporativo mais robusto.
 
@@ -35,7 +35,7 @@ Antes do MVP:
 - Baixa rastreabilidade entre solicitação, RFQ e pedido  
 - Dificuldade em comparar propostas de fornecedores  
 - Integração manual ou inexistente com o SAP B1  
-- Dependência de sistemas legados (BlueEz)  
+- Dependência de sistemas legados 
 
 ---
 
@@ -145,7 +145,7 @@ Neste MVP, atuei como responsável por:
 
 ### Overview
 
-**Procure MVP – Solicitation & Quotation** is an internal MVP designed to **replace the BlueEz purchasing workflow**, covering the full cycle from **Purchase Request → RFQ → Quotes → Approval → SAP B1 synchronization**.
+**Procure MVP – Solicitation & Quotation** is an internal MVP, covering the full cycle from **Purchase Request → RFQ → Quotes → Approval → SAP B1 synchronization**.
 
 📌 **Status:** final validation / rollout  
 📌 **Type:** internal corporate MVP  
